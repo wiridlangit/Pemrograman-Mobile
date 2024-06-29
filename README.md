@@ -1,14 +1,19 @@
-# Pemrograman-Mobile
-This is a portal repository to every Pemrograman Mobile assignment repositories
+# Pemrograman Mobile
 
-## The library of Pemrograman Mobile Repositories
-https://github.com/Pemrograman-Mobile-Wiridlangit
+This repository serves as a portal to various Pemrograman Mobile assignment repositories.
 
-### Pemrograman Mobile Project 1 Repository
-https://github.com/Pemrograman-Mobile-Wiridlangit/Pemrograman-Mobile-Project-1
+## Library of Pemrograman Mobile Repositories
 
-### Pemrograman Mobile Modul 4 Repository
-https://github.com/Pemrograman-Mobile-Wiridlangit/Pemrograman-Mobile-Modul-4
+You can find all repositories for Pemrograman Mobile assignments at the following link:
+- [Pemrograman Mobile Repositories Library](https://github.com/Pemrograman-Mobile-Wiridlangit)
 
-### Pemrograman Mobile FP Repository
-https://github.com/Pemrograman-Mobile-Wiridlangit/Pemrograman-Mobile-FP
+### Project Repositories
+
+#### Pemrograman Mobile Project 1
+- Repository: [Pemrograman Mobile Project 1](https://github.com/Pemrograman-Mobile-Wiridlangit/Pemrograman-Mobile-Project-1)
+
+#### Pemrograman Mobile Modul 4
+- Repository: [Pemrograman Mobile Modul 4](https://github.com/Pemrograman-Mobile-Wiridlangit/Pemrograman-Mobile-Modul-4)
+
+#### Pemrograman Mobile Final Project (FP)
+- Repository: [Pemrograman Mobile FP](https://github.com/Pemrograman-Mobile-Wiridlangit/Pemrograman-Mobile-FP)
